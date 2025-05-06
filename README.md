@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working On [ERP Software](https://greendataware.com/)
 
-- I'm currently Learning **Converting Voice to text with ML.NET**
+- I'm currently Learning **LLMs With HuggingFace Pipeline**
 
 - 💬 Ask me about **.NET, Backend Techs, React, Database (SQL and NoSQL)**
 
